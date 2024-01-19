@@ -68,4 +68,3 @@ below.
     upload code coverage reports to Codecov.io,
     and produce pitest artifacts.
 
-
