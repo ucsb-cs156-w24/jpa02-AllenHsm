@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w24/jpa02-AllenHsm
 
-Deployed at: https://jpa02-allenhsm.dokku-16.cs.ucsb.edu
+Deployed at: http://jpa02-allenhsm.dokku-16.cs.ucsb.edu
 
 
 # About this repo
